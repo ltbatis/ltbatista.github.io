@@ -2,12 +2,13 @@
 /*Inspired by dive into minimalism by Mark Pilgrim*/
 
 body{
-    font-family:"Gill Sans MT","Gill Sans","Goudy Bookletter 1911","Linux Libertine O","Liberation Serif",Candara,serif;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     font-size: 12pt
     margin-top: 2%; margin-right: 20%; margin-bottom: 2%; margin-left: 25%;
     width:40em;
     line-height:1.75;
-    word-spacing:0.1em
+    word-spacing:0.1em;
+    background-color: #FFFAF0;
     }
     
 A:link {color: INDIGO; text-decoration: none; border-bottom:1px dotted }
